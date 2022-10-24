@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_00000000T es un DNI vlido</name>
+   <tag></tag>
+   <elementGuidId>30117568-b1a4-4026-884f-a87f501d1415</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='result']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>514bb6ec-725b-4206-a59f-462fc0d3bc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>result</value>
+      <webElementGuid>8196b63a-79ec-4df0-9781-243368cacec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result text-center</value>
+      <webElementGuid>6a28a4a1-f801-48f5-a317-2b22ce8cfb06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00000000T es un DNI válido</value>
+      <webElementGuid>eb32ce9d-d802-4145-94b3-28a703207e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result&quot;)</value>
+      <webElementGuid>2dee3bd5-f4a3-442b-bf41-dbb2057993db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='result']</value>
+      <webElementGuid>49eedb11-7628-4655-992b-62604c15b9ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='result-container']/p</value>
+      <webElementGuid>96167476-ab79-4ea9-964e-aab3637eae9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprobar'])[1]/following::p[1]</value>
+      <webElementGuid>e4be7179-e99d-459b-a687-896c534aa295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprobar DNI, NIE o CIF españoles de acuerdo con la normativa vigente'])[1]/following::p[1]</value>
+      <webElementGuid>c0e5e6ef-7235-43ec-bfd8-8422c9898939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'result', '&quot;', ')')])[1]/preceding::p[2]</value>
+      <webElementGuid>95940ef1-bfd1-4b5b-9b97-2f836949e094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='00000000T es un DNI válido']/parent::*</value>
+      <webElementGuid>836e9f7b-3b6f-4de9-8cfa-baf94a26ba90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4194f242-9e69-46ca-bf92-ed7bd15aee1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'result' and (text() = '00000000T es un DNI válido' or . = '00000000T es un DNI válido')]</value>
+      <webElementGuid>034687f5-f755-4392-a269-eaec436a7d52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

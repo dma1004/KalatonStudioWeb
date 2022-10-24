@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prueba dirigida por datos</description>
+   <name>Prueba NIF Válido Data-Driven</name>
+   <tag>Válidos</tag>
+   <comment></comment>
+   <testCaseGuid>6380c36c-1353-4602-8f34-7ad2836d029f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>753e9b73-f2ff-4449-acd1-81fd96b3eab4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2920db06-09f4-465e-ac74-bdc2b89cbcdd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'00000000T'</defaultValue>
+      <description></description>
+      <id>753e9b73-f2ff-4449-acd1-81fd96b3eab4</id>
+      <masked>false</masked>
+      <name>nif</name>
+   </variable>
+   <variable>
+      <defaultValue>'00000000T es un DNI válido'</defaultValue>
+      <description></description>
+      <id>2920db06-09f4-465e-ac74-bdc2b89cbcdd</id>
+      <masked>false</masked>
+      <name>esperado</name>
+   </variable>
+</TestCaseEntity>

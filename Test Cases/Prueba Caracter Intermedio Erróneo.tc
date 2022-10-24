@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>En la posición 4 no debe haber una letra</description>
+   <name>Prueba Caracter Intermedio Erróneo</name>
+   <tag>NoVálidos</tag>
+   <comment></comment>
+   <testCaseGuid>4789edba-e88b-47a3-a487-5e4f6eec2350</testCaseGuid>
+</TestCaseEntity>

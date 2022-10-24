@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>No puede tener un número al final</description>
+   <name>Prueba Último Caracter Erróneo</name>
+   <tag>NoVálidos</tag>
+   <comment></comment>
+   <testCaseGuid>adb8706a-3a51-4806-b7e5-917c2a5094d5</testCaseGuid>
+</TestCaseEntity>

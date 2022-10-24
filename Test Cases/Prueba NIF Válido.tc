@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prueba un NIF válido</description>
+   <name>Prueba NIF Válido</name>
+   <tag>Validos</tag>
+   <comment></comment>
+   <testCaseGuid>37f4d51b-29d6-46cb-b9a3-139e8c0eba1f</testCaseGuid>
+</TestCaseEntity>

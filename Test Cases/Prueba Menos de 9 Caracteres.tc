@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>8 caracteres (no válido)</description>
+   <name>Prueba Menos de 9 Caracteres</name>
+   <tag>NoVálido</tag>
+   <comment></comment>
+   <testCaseGuid>efe085f6-f679-48b0-bc1f-222993ed4c13</testCaseGuid>
+</TestCaseEntity>

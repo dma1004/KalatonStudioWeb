@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_000000001 NO es un NIF (DNI,NIE o CIF) vlido</name>
+   <tag></tag>
+   <elementGuidId>31e5f393-de63-4d0a-8243-d6a594811b11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='result']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a2c08e39-7c74-4b3f-b46d-949c60719725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>result</value>
+      <webElementGuid>5572e339-ac19-4fb9-b284-03eb855c6af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result text-center</value>
+      <webElementGuid>faeec6ae-a577-41cd-bc66-4d3d1f94f99e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>000000001 NO es un NIF (DNI,NIE o CIF) válido</value>
+      <webElementGuid>be20b2d3-014c-4e70-9ad6-079409fe82f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result&quot;)</value>
+      <webElementGuid>ef5b3cbf-e19e-48a4-a137-adc3e276bb45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='result']</value>
+      <webElementGuid>69184676-2d85-48fa-9a04-6d4484d0e6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='result-container']/p</value>
+      <webElementGuid>e26de214-e2b7-4ac9-adc6-f9f2bc734721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprobar'])[1]/following::p[1]</value>
+      <webElementGuid>df8a00e0-610a-49a7-9412-2ac14cf31ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprobar DNI, NIE o CIF españoles de acuerdo con la normativa vigente'])[1]/following::p[1]</value>
+      <webElementGuid>acf26cee-9982-4df4-a2e6-141200e26ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'result', '&quot;', ')')])[1]/preceding::p[2]</value>
+      <webElementGuid>0652a7d5-de21-41c9-8aaa-3b28af75aae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='000000001 NO es un NIF (DNI,NIE o CIF) válido']/parent::*</value>
+      <webElementGuid>0594905d-d801-4399-b5c7-744e6daaa379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>fac56e5c-42f3-464b-9387-cf5ec1d13fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'result' and (text() = '000000001 NO es un NIF (DNI,NIE o CIF) válido' or . = '000000001 NO es un NIF (DNI,NIE o CIF) válido')]</value>
+      <webElementGuid>0123d1a9-d552-4915-ad38-87ef06411ecf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
